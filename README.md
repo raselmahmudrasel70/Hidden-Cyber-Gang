@@ -14,5 +14,5 @@ INSTALLATION ⬇️
  chmod +x *
  pip install -r bomb.txt
  python3 sms-bomb.py
-©️HCZ TEAM
+©️HCG TEAM
 This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activit
