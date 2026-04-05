@@ -9,7 +9,7 @@ INSTALLATION ⬇️
  pkg install git -y
  pkg install python -y
  rm -rf SmsBombing
- git clone https://github.com/TEAMBCS/SmsBombing
+ git clone https://github.com/raselmahmudrasel70/Hidden-Cyber-Gang
  cd SmsBombing
  chmod +x *
  pip install -r bomb.txt
